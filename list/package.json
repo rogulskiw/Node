@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "nls" : "index.js"
+    "nls": "index.js"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
 }
