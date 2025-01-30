@@ -11,5 +11,8 @@
   "description": "",
   "bin": {
     "tme": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
   }
 }
